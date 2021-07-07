@@ -3,7 +3,7 @@ export default {
   target: 'static',
 
   router: {
-    base: '/newyorktimesbestsellers/'
+    base: '/newyorktimesbestsellers'
   },
 
   // Global page headers: https://go.nuxtjs.dev/config-head
